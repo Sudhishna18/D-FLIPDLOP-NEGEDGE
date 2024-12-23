@@ -41,7 +41,7 @@ module de8 (d, clk, rst, q);
     else
       q <= d;
   end
-endmodule
+endmodule 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 Developed by: sudhishna p
 RegisterNumber:24007608
